@@ -7,10 +7,11 @@ This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vila
 3. 
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
-Make_Dataset.ipynb
+1. Make_Dataset.ipynb
+2. 
 DistillBERT.ipynb
 
-##Link to Github and GoogleDrive
+## Link to Github and GoogleDrive
 1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
 2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git
 3. Link to Google Drive containing additional resources:
