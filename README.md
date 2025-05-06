@@ -44,7 +44,6 @@ Adam Wuth, *Lead*<br/>
 <br/>
 **RNN Code:**<br/>
 Aiden Devine, *Lead*<br/>
-Adam Wuth, *Contributer*<br/>
 <br/>
 **Bigram Model Code:**<br/>
 Benjamin Kohav, *Lead*<br/>
