@@ -17,15 +17,15 @@ DistillBERT.ipynb
 
 ## Authorship, attribution, and acknowledgements
 **Dataset setup and filtering:**<br/>
-Adam Wuth, *Lead*
+Adam Wuth, *Lead*<br/>
 <br/>
 **DistillBERT Code:**<br/>
-Adam Wuth, *Lead*
+Adam Wuth, *Lead*<br/>
 <br/>
 **RNN Code:**<br/>
 Aiden Devine, *Lead*
-Adam Wuth, *Contributer*
+Adam Wuth, *Contributer*<br/>
 <br/>
 **Bigram Model Code:**<br/>
-Benjamin Kohav, *Lead*
+Benjamin Kohav, *Lead*<br/>
 <br/>
