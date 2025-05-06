@@ -11,7 +11,7 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 2.  Bigram model Accuracy:22%
 3.  Trigram model Accuracy:placeholder
 4. GRU Accuracy:46.5%
-5. DilstillBERT Accuracy:
+5. DilstillBERT Accuracy:placeholder
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb
@@ -44,7 +44,7 @@ Split:80% training, 20% validation<br/>
 Adam Wuth, *Lead*<br/>
 <br/>
 **RNN Code:**<br/>
-Aiden Devine, *Lead*
+Aiden Devine, *Lead*<br/>
 Adam Wuth, *Contributer*<br/>
 <br/>
 **Bigram Model Code:**<br/>
