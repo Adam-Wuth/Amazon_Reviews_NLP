@@ -14,7 +14,14 @@ This project uses Natural Language Processing (NLP) techniques to predict star r
 In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb
 2. DistillBERT.ipynb
-
+## Dataset
+Years Filtered: Only 2023 reviews
+Source Domains: 34 Amazon product categories
+Preprocessing:
+Filter by timestamp, review type and cattegory
+Map rating to label classes 0–4
+Split:80% training, 20% validation
+**To recreate the project, use the make dataset notebook**
 ## Link to Github and GoogleDrive
 1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
 2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git
