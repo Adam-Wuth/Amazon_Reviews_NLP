@@ -2,7 +2,7 @@
 This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vilas, Aiden Devine, Evan Zachary
 
 ## Overview
-This project uses Natural Language Processing (NLP) techniques to predict star ratings (1 to 5) from Amazon product reviews written in 2023. We compare different model architectures (e.g., N-gram models vs. fine-tuned DistilBERT) to evaluate how well they classify sentiment in real-world e-commerce data.
+This project uses Natural Language Processing (NLP) techniques to predict star ratings (1 to 5) from Amazon product reviews written in 2023. We compare different model architectures (e.g., N-gram models vs. DistilBERT) to evaluate how well they classify sentiment in real-world amazon review data.
 
 
 
