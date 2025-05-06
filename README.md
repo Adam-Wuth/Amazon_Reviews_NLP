@@ -1,5 +1,10 @@
-# Amazon_Reviews_NLP
+# 📦 Amazon Reviews Sentiment Classification – NLP Final Project
 This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vilas, Aiden Devine, Evan Zachary
+
+## Overview
+This project uses Natural Language Processing (NLP) techniques to predict star ratings (1 to 5) from Amazon product reviews written in 2023. We compare different model architectures (e.g., N-gram models vs. fine-tuned DistilBERT) to evaluate how well they classify sentiment in real-world e-commerce data.
+
+
 
 ## Final Results(all tested on the same dataset created in the make_dataset notebook)
 1. Bigram model accuracy:22%
@@ -8,8 +13,7 @@ This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vila
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb
-2. 
-DistillBERT.ipynb
+2. DistillBERT.ipynb
 
 ## Link to Github and GoogleDrive
 1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
