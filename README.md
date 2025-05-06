@@ -21,8 +21,9 @@ In this repository, you will find 6 notebooks:
 5. placeholder
 6. placeholder
 <br/>
-Each notebook holds a different model. In order to recreate our results, you only need to follow the instructions and run the code in each notebook.
-## Dataset
+Each notebook holds a different model. In order to recreate our results, you only need to follow the instructions and run the code in each notebook.<br/>
+## Dataset Info
+Dataset:McAuley-Lab/Amazon-Reviews-2023<br/>
 Years Filtered: Only 2023 reviews<br/>
 Source Domains: 34 Amazon product categories<br/>
 Preprocessing:<br/>
