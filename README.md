@@ -7,9 +7,11 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 
 
 ## Final Results(all tested on the same dataset created in the make_dataset notebook)
-1. Bigram model accuracy:22%
-2. RNN model Accuracy:20.1%
-3. 
+1. RNN model Accuracy:20.1%
+2.  Bigram model Accuracy:22%
+3.  Trigram model Accuracy:placeholder
+4. GRU Accuracy:46.5%
+5. DilstillBERT Accuracy:
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb
@@ -27,17 +29,15 @@ Preprocessing:<br/>
 Filter by timestamp, review type and category<br/>
 Map rating to label classes 0–4<br/>
 Split:80% training, 20% validation<br/>
-**To recreate the project, use the make dataset notebook**
+**To recreate the project, use the make dataset notebook**<br/>
+
 ## Link to Github and GoogleDrive
-1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
-2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git
-3. Link to Google Drive containing additional resources:
+1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git<br/>
+2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git<br/>
+3. Link to Google Drive containing additional resources:https://drive.google.com/drive/folders/1guIdize8FzOsx_XGgixzWrsdJZ_BJPZs?usp=sharing<br/>
 
 ## Authorship, attribution, and acknowledgements
 **Dataset setup and filtering:**<br/>
-Adam Wuth, *Lead*<br/>
-<br/>
-**DistillBERT Code:**<br/>
 Adam Wuth, *Lead*<br/>
 <br/>
 **RNN Code:**<br/>
@@ -46,4 +46,13 @@ Adam Wuth, *Contributer*<br/>
 <br/>
 **Bigram Model Code:**<br/>
 Benjamin Kohav, *Lead*<br/>
+<br/>
+**Trigram Model Code:**<br/>
+placeholder, *Lead*<br/>
+<br/>
+**GRU Code:**<br/>
+placeholder, *Lead*<br/>
+<br/>
+**DistillBERT Code:**<br/>
+Adam Wuth, *Lead*<br/>
 <br/>
