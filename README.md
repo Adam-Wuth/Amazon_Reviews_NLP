@@ -1,8 +1,10 @@
 # Amazon_Reviews_NLP
 This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vilas, Aiden Devine, Evan Zachary
 
-## Final Results
-
+## Final Results(all tested on the same dataset created in the make_dataset notebook)
+1. Bigram model accuracy:22%
+2. RNN model Accuracy:20.1%
+3. 
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
 Make_Dataset.ipynb
@@ -10,13 +12,20 @@ DistillBERT.ipynb
 
 ##Link to Github and GoogleDrive
 1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
-2. Link to final github: 
+2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git
 3. Link to Google Drive containing additional resources:
 
 ## Authorship, attribution, and acknowledgements
 **Dataset setup and filtering:**<br/>
-Adam Wuth, Lead
+Adam Wuth, *Lead*
+<br/>
 **DistillBERT Code:**<br/>
-Adam Wuth, Lead
+Adam Wuth, *Lead*
+<br/>
 **RNN Code:**<br/>
-Adam Wuth, Lead
+Aiden Devine, *Lead*
+Adam Wuth, *Contributer*
+<br/>
+**Bigram Model Code:**<br/>
+Benjamin Kohav, *Lead*
+<br/>
