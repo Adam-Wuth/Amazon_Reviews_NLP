@@ -14,5 +14,5 @@ DistillBERT.ipynb
 3. Link to Google Drive containing additional resources:
 
 ## Teammember responsibilities:
-**Dataset setup and filtering:**
+**Dataset setup and filtering:**<br/>
 Adam Wuth
