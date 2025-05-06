@@ -18,14 +18,15 @@ In this repository, you will find 6 notebooks:
 4. placeholder
 5. placeholder
 6. placeholder
+<br/>
 Each notebook holds a different model. In order to recreate our results, you only need to follow the instructions and run the code in each notebook.
 ## Dataset
-Years Filtered: Only 2023 reviews
-Source Domains: 34 Amazon product categories
-Preprocessing:
-Filter by timestamp, review type and cattegory
-Map rating to label classes 0–4
-Split:80% training, 20% validation
+Years Filtered: Only 2023 reviews<br/>
+Source Domains: 34 Amazon product categories<br/>
+Preprocessing:<br/>
+Filter by timestamp, review type and category<br/>
+Map rating to label classes 0–4<br/>
+Split:80% training, 20% validation<br/>
 **To recreate the project, use the make dataset notebook**
 ## Link to Github and GoogleDrive
 1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
