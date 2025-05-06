@@ -9,10 +9,14 @@ Make_Dataset.ipynb
 DistillBERT.ipynb
 
 ##Link to Github and GoogleDrive
-1. Link to github used in development:
-2. Link to final github:
+1. Link to github used in development: https://github.com/Adam-Wuth/NLP-project.git
+2. Link to final github: 
 3. Link to Google Drive containing additional resources:
 
-## Teammember responsibilities:
+## Authorship, attribution, and acknowledgements
 **Dataset setup and filtering:**<br/>
-Adam Wuth
+Adam Wuth, Lead
+**DistillBERT Code:**<br/>
+Adam Wuth, Lead
+**RNN Code:**<br/>
+Adam Wuth, Lead
