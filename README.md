@@ -31,7 +31,6 @@ Source Domains: 34 Amazon product categories<br/>
 Preprocessing:<br/>
 Filter by timestamp, review type and category<br/>
 Map rating to label classes 0–4<br/>
-Split:80% training, 20% validation<br/>
 **To recreate the project, use the make dataset notebook**<br/>
 
 ## Link to Github and GoogleDrive
