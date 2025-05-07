@@ -26,7 +26,7 @@ Confusion matrix for disitilbert results:<br/>
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb(no model, use first to get data)
-2. DistillBERT.ipynb(contains the DistilBERT code)
+2. DistilBERT.ipynb(contains the DistilBERT code)
 3. Amazon_Reviews-BIGRAM(contains the Bigram model code)
 4. Amazon_Reviews-BiLSTM.ipynb(contains RNN model code)
 5. Amazon_Reviews-GRU.ipynb(contains GRU model code)
@@ -47,7 +47,7 @@ Map rating to label classes 0–4<br/>
 2. Link to final github: https://github.com/Adam-Wuth/Amazon_Reviews_NLP.git<br/>
 3. Link to Google Drive containing additional resources:https://drive.google.com/drive/folders/1guIdize8FzOsx_XGgixzWrsdJZ_BJPZs?usp=sharing<br/>
 ## Future Steps
-An obvious first future step would be to get more computing power/time so we can really see the upper bound of the distillbert model.<br/>
+An obvious first future step would be to get more computing power/time so we can really see the upper bound of the distilbert model.<br/>
 
 A second future step would be cleaning the dataset better to try and have more distinct differences between 2-3-4<br/>
 
@@ -69,6 +69,6 @@ Noah Vilas, *Lead*<br/>
 **GRU Code:**<br/>
 Evan Zachary, *Lead*<br/>
 <br/>
-**DistillBERT Code:**<br/>
+**DistilBERT Code:**<br/>
 Adam Wuth, *Lead*<br/>
 <br/>
