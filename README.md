@@ -25,7 +25,7 @@ In this repository, you will find 6 notebooks:
 2. DistillBERT.ipynb(contains the DistilBERT code)
 3. Amazon_Reviews-BIGRAM(contains the Bigram model code)
 4. Amazon_Reviews-BiLSTM.ipynb(contains RNN model code)
-5. placeholder
+5. Amazon_Reviews-GRU.ipynb(contains GRU model code)
 6. placeholder
 <br/>
 
@@ -62,7 +62,7 @@ Benjamin Kohav, *Lead*<br/>
 placeholder, *Lead*<br/>
 <br/>
 **GRU Code:**<br/>
-placeholder, *Lead*<br/>
+Evan Zachary, *Lead*<br/>
 <br/>
 **DistillBERT Code:**<br/>
 Adam Wuth, *Lead*<br/>
