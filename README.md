@@ -24,7 +24,7 @@ In this repository, you will find 6 notebooks:
 1. Make_Dataset.ipynb(no model, use first to get data)
 2. DistillBERT.ipynb(contains the DistilBERT code)
 3. Amazon_Reviews-BIGRAM(contains the Bigram model code)
-4. placeholder
+4. Amazon_Reviews-BiLSTM.ipynb(contains RNN model code)
 5. placeholder
 6. placeholder
 <br/>
