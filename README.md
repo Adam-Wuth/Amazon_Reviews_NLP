@@ -14,9 +14,10 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 5. DilstillBERT Accuracy:placeholder
 
 ## Steps to set up
-0. Use python 3.8+, and pip installs for "pip install torch numpy nltk datasets transformers scikit-learn matplotlib tqdm" so you have everything you need
-1. For all code, make sure that you use the make_dataset.ipynb so you have a dataset to work with.
-2. From there on, each notebook holds a different model. In order to recreate our results, you only need to follow the instructions and run the code in each notebook.<br/>
+1. Use python 3.8+, and pip installs for "pip install torch numpy nltk datasets transformers scikit-learn matplotlib tqdm" so you have everything you need
+2. Ensure you have the file 'glove.6B.50d.txt' in your directory
+2. For all code, make sure that you use the make_dataset.ipynb so you have a dataset to work with.
+3. From there on, each notebook holds a different model. In order to recreate our results, you only need to follow the instructions and run the code in each notebook.<br/>
 
 ## Different Parts of the code
 In this repository, you will find 6 notebooks:
