@@ -59,7 +59,7 @@ Aiden Devine, *Lead*<br/>
 Benjamin Kohav, *Lead*<br/>
 <br/>
 **Trigram Model Code:**<br/>
-placeholder, *Lead*<br/>
+Noah Vilas, *Lead*<br/>
 <br/>
 **GRU Code:**<br/>
 Evan Zachary, *Lead*<br/>
