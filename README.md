@@ -11,7 +11,7 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 2.  Bigram model Accuracy:22%
 3.  Trigram model Accuracy:placeholder
 4. GRU Accuracy:46.5%
-5. DilstillBERT Accuracy:placeholder
+5. DilstilBERT Accuracy:placeholder
 
 ## Steps to set up
 1. Use python 3.8+, and pip installs for "pip install torch numpy nltk datasets transformers scikit-learn matplotlib tqdm" so you have everything you need
