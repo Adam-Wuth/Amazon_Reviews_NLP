@@ -44,7 +44,9 @@ Map rating to label classes 0–4<br/>
 3. Link to Google Drive containing additional resources:https://drive.google.com/drive/folders/1guIdize8FzOsx_XGgixzWrsdJZ_BJPZs?usp=sharing<br/>
 ## Future Steps
 An obvious first future step would be to get more computing power/time so we can really see the upper bound of the distillbert model.<br/>
+
 A second future step would be cleaning the dataset better to try and have more distinct differences between 2-3-4<br/>
+
 A third future step would be looking into more transformer models and training them for optimal performance as well<br/>
 ## Authorship, attribution, and acknowledgements
 **Dataset setup and filtering:**<br/>
