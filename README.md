@@ -1,4 +1,4 @@
-# Amazon Reviews Sentiment Classification – NLP Final Project
+****# Amazon Reviews Sentiment Classification – NLP Final Project
 This is the final Project for CSCI 3832 for Adam Wuth, Benjamin Kohav, Noah Vilas, Aiden Devine, Evan Zachary
 
 ## Overview
@@ -30,7 +30,7 @@ In this repository, you will find 6 notebooks:
 3. Amazon_Reviews-BIGRAM(contains the Bigram model code)
 4. Amazon_Reviews-BiLSTM.ipynb(contains RNN model code)
 5. Amazon_Reviews-GRU.ipynb(contains GRU model code)
-6. placeholder
+6.Amazon_Reviews-NGRAM-2.ipynb(contains 3/4 gram model code)
 <br/>
 
 ## Dataset Info
