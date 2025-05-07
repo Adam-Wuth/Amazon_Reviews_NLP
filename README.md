@@ -12,7 +12,7 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 3.  Trigram model Accuracy:64%, but was trained on a 5 star skewed dataset and not retrained
 4. GRU Accuracy:46.5%
 5. DilstilBERT Accuracy:49.50(trained on "reviews_larger" dataset specified in DisilBERT.ipynb)
-Confusion matrix for disitilbert:
+Confusion matrix for disitilbert:<br/>
 <img width="692" alt="Screenshot 2025-05-06 at 9 52 25 PM" src="https://github.com/user-attachments/assets/ca437c72-f443-467e-a021-e88f5945a97a" />
 
 
