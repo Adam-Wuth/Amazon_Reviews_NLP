@@ -9,7 +9,7 @@ This project uses different models to predict star ratings (1 to 5) from Amazon 
 ## Final Results(all tested on the same dataset created in the make_dataset notebook)
 1. RNN model Accuracy:20.1%
 2.  Bigram model Accuracy:22%
-3.  Trigram model Accuracy:placeholder
+3.  Trigram model Accuracy:64%, but was trained on a 5 star skewed dataset and not retrained
 4. GRU Accuracy:46.5%
 5. DilstilBERT Accuracy:placeholder
 
